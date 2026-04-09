@@ -1,0 +1,2 @@
+# POObasico
+primer codigo
